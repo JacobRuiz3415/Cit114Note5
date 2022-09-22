@@ -26,7 +26,7 @@
 - A routing table defines how network traffic is routed from a subnet or gateway.
 - Network address translation is a process of mapping multiple private IP addresses to a public address.
 - A PVN allows a secure correction to a private network.
-##Quotes
+## Quotes
 - “An Elastic IP address is a static, public IPv4 address designed for dynamic cloud computing. You can associate an Elastic IP address with any instance or network interface in any VPC in your account. With an Elastic IP address, you can mask the failure of an instance by rapidly remapping the address to another instance in your VPC.”
 - “A security group acts as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security groups act at the instance level, not the subnet level. Therefore, each instance in a subnet in your VPC can be assigned to a different set of security groups.”
 ## New facts
